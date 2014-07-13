@@ -11,3 +11,8 @@ It is relased into the public domain.
 This project adds the following to the original code:
 
 * Added pom.xml
+
+
+Possible Improvements:
+
+* Extract multi-file 7z archives.  Currently multi-file archives are not supported.
